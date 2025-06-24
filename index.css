@@ -81,7 +81,7 @@ html, body {
 
 /* Hover effect */
 .nav-links a:hover {
-  color: var(--secondaryColor);
+  color: var(--primaryColor);
 }
 
 .nav-links a.active {
